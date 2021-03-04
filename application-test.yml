@@ -1,5 +1,5 @@
 spring:
   application:
-    name: cloud-config-center3355
+    name: cloud-config-center33557
 config:
   info: hello
