@@ -1,7 +1,5 @@
-server:
-  port: 3344
 spring:
   application:
-    name: cloud-config-center3344
+    name: cloud-config-center3355
 config:
   info: hello
