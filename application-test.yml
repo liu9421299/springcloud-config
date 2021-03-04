@@ -3,3 +3,5 @@ server:
 spring:
   application:
     name: cloud-config-center3344
+config:
+  info: hello
