@@ -2,4 +2,4 @@ spring:
   application:
     name: cloud-config-center3355
 config:
-  info: hello2444
+  info: hello555
